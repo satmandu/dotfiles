@@ -70,14 +70,14 @@ body, body x-screen[style], body x-screen > div {
   font-family: 'Roboto Mono for Powerline';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto Mono for Powerline'), url(https://github.com/satmandu/dotfiles/raw/master/assets/Roboto\ Mono\ for\ Powerline.woff) format('woff');
+  src: local('Roboto Mono for Powerline'), url("https://github.com/satmandu/dotfiles/raw/master/assets/Roboto\ Mono\ for\ Powerline.woff") format('woff');
 }
 
 @font-face {
   font-family: 'Cust SF Mono Powerline';
   font-style: normal;
   font-weight: 400;
-  src: local('Cust SF Mono Powerline'), url(https://github.com/satmandu/dotfiles/raw/master/assets/CustFont-SFMono-Powerline.woff2) format('woff2');
+  src: local('Cust SF Mono Powerline'), url("https://github.com/satmandu/dotfiles/raw/master/assets/CustFont-SFMono-Powerline.woff2") format('woff2');
 
 }
 
