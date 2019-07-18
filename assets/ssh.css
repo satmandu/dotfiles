@@ -31,7 +31,7 @@ body, body x-screen[style], body x-screen > div {
   font-family: 'PT Mono';
   font-style: normal;
   font-weight: 400;
-  src: local('PT Mono'), url("https://www.puritys.me/filemanage/fonts/PT Mono.woff") format('woff');
+  src: local('PT Mono'), url("https://github.com/satmandu/dotfiles/raw/master/assets/PT%20Mono.woff") format('woff');
   /* unicode number 0-9,a-z,A-Z*/
   unicode-range: U+0001-0080;
 }
@@ -40,7 +40,7 @@ body, body x-screen[style], body x-screen > div {
   font-family: 'IBMPlex Mono';
   font-style: normal;
   font-weight: 400;
-  src: local('IBMPlex Mono'), url("https://www.puritys.me/filemanage/fonts/IBMPlexMono-Regular-Latin1.woff2") format('woff2');
+  src: local('IBMPlex Mono'), url("https://github.com/satmandu/dotfiles/raw/master/assets/IBMPlexMono-Regular-Latin1.woff2") format('woff2');
   /* unicode number 1-9*/
   unicode-range: U+0031-0039;
 }
@@ -50,14 +50,14 @@ body, body x-screen[style], body x-screen > div {
   font-family:'SF Mono';
   font-style:normal;
   font-weight:400;
-  src:local('SF Mono'), url("https://www.puritys.me/filemanage/fonts/SFMono-Regular.woff") format("woff");
+  src:local('SF Mono'), url("https://github.com/satmandu/dotfiles/raw/master/assets/SFMono-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family:'Cust SF Mono';
   font-style:normal;
   font-weight:400;
-  src:local('Cust SF Mono'), url("https://www.puritys.me/filemanage/fonts/CustFont-SFMono.woff2") format("woff2");
+  src:local('Cust SF Mono'), url("https://github.com/satmandu/dotfiles/raw/master/assets/CustFont-SFMono.woff2") format("woff2");
   /* unicode number 0-9,a-z,A-Z*/
   /*unicode-range: U+0001-0080;*/
 }
@@ -70,14 +70,14 @@ body, body x-screen[style], body x-screen > div {
   font-family: 'Roboto Mono for Powerline';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto Mono for Powerline'), url(https://www.puritys.me/filemanage/fonts/Roboto\ Mono\ for\ Powerline.woff) format('woff');
+  src: local('Roboto Mono for Powerline'), url(https://github.com/satmandu/dotfiles/raw/master/assets/Roboto\ Mono\ for\ Powerline.woff) format('woff');
 }
 
 @font-face {
   font-family: 'Cust SF Mono Powerline';
   font-style: normal;
   font-weight: 400;
-  src: local('Cust SF Mono Powerline'), url(https://www.puritys.me/filemanage/fonts/CustFont-SFMono-Powerline.woff2) format('woff2');
+  src: local('Cust SF Mono Powerline'), url(https://github.com/satmandu/dotfiles/raw/master/assets/CustFont-SFMono-Powerline.woff2) format('woff2');
 
 }
 
